@@ -3,8 +3,6 @@
 This project is distributed in association with the [INFORMS Journal in
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-[![IJOC logo](https://INFORMSJoC.github.io/logo.png)](https://pubsonline.informs.org/journal/ijoc)
-
 The software and data in this repository are associated with the paper [This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by T. Ralphs. 
 
 [![Release](https://img.shields.io/github/v/release/INFORMSJoC/Template?sort=semver)](https://github.com/INFORMSJoC/Template/releases)
