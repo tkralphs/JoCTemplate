@@ -1,3 +1,5 @@
+![INFORMS Journal on Computing Logo](INFORMSJoC.github.io/logos/INFORMS-Journal-on-Computing_large.png)
+
 # CacheTest
 
 This project is distributed in association with the [INFORMS Journal on
