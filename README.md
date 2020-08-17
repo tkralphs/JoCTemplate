@@ -1,4 +1,4 @@
-![INFORMS Journal on Computing Logo](INFORMSJoC.github.io/logos/INFORMS-Journal-on-Computing_large.png)
+![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS-Journal-on-Computing_large.png)
 
 # CacheTest
 
