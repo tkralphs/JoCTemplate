@@ -114,7 +114,7 @@ number), let the Area Editor know.
 
  * What if I later find a bug in the software and I want to fix it?
 
-   * Please contact the Area Editor and we will determine the best courtse of
+   * Please contact the Area Editor and we will determine the best course of
      action.
 
  * If I come out with a new version of the software later on, can I add it to
